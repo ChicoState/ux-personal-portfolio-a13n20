@@ -6,7 +6,7 @@ In my experience as a CAGD minor, I've had to use Unity in every class I've take
 
 The way to do this is by right-clicking in the hierarchy and selecting the object you want to create. The game object will then be added to the scene and be listed in the hierarchy. 
 
-<img src="../assets/Creating_GameObject.png" height=300 /> <img src="../assets/Game_Object_InScene.png" height=300 />
+<img src="../assets/Creating_GameObject.png" height=300 /> <img src="../assets/GameObject_InScene.png" height=300 />
 
 You can then change the position, rotation, and scale of the object. You can either type in the inspector the values you wish to have or select the different tools and adjust the object with that.
 
