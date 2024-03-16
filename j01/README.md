@@ -10,8 +10,8 @@ The way to do this is by right-clicking in the hierarchy and selecting the objec
 
 Once the object is in the scene, you can rename it, change the position, rotation, and scale, add assets, and change the material. Unity provides multiple different ways to accomplish these tasks, for the most part, which provides veteran users with shortcuts that make creating a scene much faster. 
 
-<div style="diplay: flex; flex-direction: column; alighn-items: center;">
-  <div style="margin-left: 20px;" >
+<div style="diplay: flex; alighn-items: center;">
+  <div style="margin-right: 20px;" >
     When adjusting the transform of the object, which is the position, rotation, and scale, you can either type in the inspector the values you wish to have or select the different tools and adjust the object with that. The object's transform is based on the X, Y, and Z axes, with Y representing the verticle positioning of the scene. This has always been something that worked well for my mental model of the 3D space because a 2D graph uses the Y-axis as the verticle axis.
   </div>
   <div>
