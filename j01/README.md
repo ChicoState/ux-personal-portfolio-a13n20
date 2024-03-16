@@ -16,7 +16,7 @@ When adjusting the transform of the object, which is the position, rotation, and
 
 When adjusting the transforms of an object, using the tools is much less precise than typing in the values in the inspector. 
 
-<img src="../assets/Move_With_Tool.gif" max-height=200 max-width=320 /> <img src="../assets/Move_With_Numbers.gif" max-height=200 max-width=320 />
+<img src="../assets/Move_With_Tool.gif" style="max-height=200" /> <img src="../assets/Move_With_Numbers.gif" max-height=200 max-width=320 />
 
 You can also change the color of the object by either dragging the material onto the object in the scene, dragging it onto the object in the hierarchy, or dragging it onto the object in the inspector.
 
