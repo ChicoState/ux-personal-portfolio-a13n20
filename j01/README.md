@@ -13,7 +13,7 @@ Once the object is in the scene, you can rename it, change the position, rotatio
 <div style="diplay: flex; alighn-items: center;">
   <div style="margin-left: 20px;" >
     When adjusting the transform of the object, which is the position, rotation, and scale, you can either type in the inspector the values you wish to have or select the different tools and adjust the object with that. The object's transform is based on the X, Y, and Z axes, with Y representing the verticle positioning of the scene. This has always been something that worked well for my mental model of the 3D space because a 2D graph uses the Y-axis as the verticle axis.
-    </div>
+  </div>
   <div>
     <img src="../assets/XYZ_Based.png" height=300 />
   </div>
