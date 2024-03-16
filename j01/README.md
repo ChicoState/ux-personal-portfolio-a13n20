@@ -14,10 +14,10 @@ When adjusting the transform of the object, which is the position, rotation, and
 
 <img src="../assets/XYZ_Based.png" height=100 />
 
-When adjusting the transforms of an object, using the tools is much less precise than typing in the values in the inspector. 
+When adjusting the transforms of an object, using the tools is much less precise than typing in the values in the inspector, but using the tools helps with making large changes or visualizing before making exact adjustments with the inspector. Like with other applications, you can use Cmd+Z (for Apple) or Ctrl+Z (for Windows) to undo any action, which means that Unity not only provides **"recovery from errors"** but also **"consistency and standards"**, two more of the 10 usability heuristics.
 
-<img src="../assets/Move_With_Tool.gif" style="max-height=200" /> <img src="../assets/Move_With_Numbers.gif" max-height=200 max-width=320 />
+<img src="../assets/Move_With_Tool.gif" max-height=200 max-width=320 /> <img src="../assets/Move_With_Numbers.gif" max-height=200 max-width=320 />
+
+Not only are there multiple ways to adjust the transform of an object, but there are multiple ways to add properties to an object. You can either drag the object from the a
 
 You can also change the color of the object by either dragging the material onto the object in the scene, dragging it onto the object in the hierarchy, or dragging it onto the object in the inspector.
-
-You can add other attributes to an object by using the inspector or the drag-and-drop method as well.
