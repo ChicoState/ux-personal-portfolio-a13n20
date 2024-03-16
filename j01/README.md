@@ -10,9 +10,13 @@ The way to do this is by right-clicking in the hierarchy and selecting the objec
 
 Once the object is in the scene, you can rename it, change the position, rotation, and scale, add assets, and change the material. Unity provides multiple different ways to accomplish these tasks, for the most part, which provides veteran users with shortcuts that make creating a scene much faster. 
 
-When adjusting the transform of the object, which is the position, rotation, and scale, you can either type in the inspector the values you wish to have or select the different tools and adjust the object with that. The object's transform is based on the X, Y, and Z axes, with Y representing the verticle positioning of the scene, much like how a 2D graph uses the Y-axis as the vertical axis. This provides the software with the quality of **"match[ing] between the system and the real world"**, one of the [10 usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/).
+When adjusting the transform of the object, which is the position, rotation, and scale, you can either type in the inspector window, which shows all the properties of the selected object, or use the tools. The object's transform is based on the X, Y, and Z axes, with Y representing the verticle positioning of the scene, much like how a 2D graph uses the Y-axis as the vertical axis. This provides the software with the quality of **"match[ing] between the system and the real world"**, one of the [10 usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) created by Jakob Nielsen.
 
 <img src="../assets/XYZ_Based.png" height=100 />
+
+When adjusting the transforms of an object, using the tools is much less precise than typing in the values in the inspector. 
+
+<img src="../assets/Move_With_Tool.gif" height=300 /> <img src="../assets/Move_With_Numbers.gif" height=300 />
 
 You can also change the color of the object by either dragging the material onto the object in the scene, dragging it onto the object in the hierarchy, or dragging it onto the object in the inspector.
 
