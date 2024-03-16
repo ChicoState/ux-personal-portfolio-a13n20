@@ -18,6 +18,11 @@ When adjusting the transforms of an object, using the tools is much less precise
 
 <img src="../assets/Move_With_Tool.gif" max-height=200 max-width=320 /> <img src="../assets/Move_With_Numbers.gif" max-height=200 max-width=320 />
 
-Not only are there multiple ways to adjust the transform of an object, but there are multiple ways to add properties to an object. You can either drag the object from the a
+Not only are there multiple ways to adjust the transform of an object, but there's a list of ways to add properties to an object.
+Drag the property from the project window, which holds all the assets and packages of the Unity project, to the objects name in the hierarchy: <img src="../assets/Script_Drag_Drop_Hierarchy.gif" max-height=200 max-width=320 /> 
+Drag it from the project window to the object in the scene: <img src="../assets/Script_Drag_Drop_Object.gif" max-height=200 max-width=320 />
+Select the object and drag it from the project window to the inspector window: <img src="../assets/Script_Drag_Drop_Inspector.gif" max-height=200 max-width=320 />
+Search for it in the inspector: <img src="../assets/Script_Search.gif" max-height=200 max-width=320 /> 
+All these options lead to Unity's success in **"flexibility and efficiency of use"**, yet another one of the 10 usability heuristics, because of all the ways a user can accomplish one task.
 
 You can also change the color of the object by either dragging the material onto the object in the scene, dragging it onto the object in the hierarchy, or dragging it onto the object in the inspector.
